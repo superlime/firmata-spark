@@ -1,0 +1,8 @@
+{
+  "name": "firmata",
+  "author": "soundanalogous, jacobrosenthal, superlime",
+  "license": "GNU GPLv2",
+  "version": "0.0.1",
+  "description": "An Implementation of Firmata for the Spark Core",
+  "namespace": "firmata-spark"
+}
