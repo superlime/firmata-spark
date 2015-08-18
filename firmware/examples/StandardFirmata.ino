@@ -30,7 +30,7 @@
  */
 
 #include "application.h"
-#include <Firmata.h>
+#include "Firmata/Firmata.h"
 
 void readAndReportData(byte address, int theRegister, byte numBytes);
 void outputPort(byte portNumber, byte portValue, byte forceSend);
